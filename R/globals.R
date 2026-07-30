@@ -1,0 +1,11 @@
+utils::globalVariables(
+  c(
+    "component",
+    "component_label",
+    "display_order",
+    "is_residual",
+    "side",
+    "translation_key",
+    "value"
+  )
+)

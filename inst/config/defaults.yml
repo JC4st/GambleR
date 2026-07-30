@@ -1,0 +1,9 @@
+language: es
+chemistry:
+  sodium: 140
+  potassium: 4
+  chloride: 104
+  bicarbonate: 24
+  albumin: 4
+  lactate: 1
+  ionized_calcium: 1.2

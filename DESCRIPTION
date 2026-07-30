@@ -1,0 +1,25 @@
+Package: GambleR
+Title: Educational Gamblegram for Acid-Base Visualization
+Version: 0.1.0.9000
+Authors@R: 
+    person("Juan Camilo", "Castellanos", role = c("aut", "cre"),
+           email = "juan.castellanos@urosario.edu.co")
+Description: Modular educational Shiny application for visualizing plasma
+    electroneutrality using a Gamblegram-inspired representation. The
+    application is not intended for clinical decision-making.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Depends:
+    R (>= 4.3.0)
+Imports:
+    shiny,
+    ggplot2,
+    dplyr,
+    tibble
+Suggests:
+    testthat (>= 3.0.0),
+    covr,
+    lintr
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0

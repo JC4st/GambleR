@@ -1,0 +1,7 @@
+^GambleR\.Rproj$
+^\.Rproj\.user$
+^renv$
+^renv\.lock$
+^app$
+^README\.Rmd$
+^dev$
